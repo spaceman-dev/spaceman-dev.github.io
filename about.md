@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I, Dhruv Bhat am a second year CSE Student at Manipal Institute of Technology, Manipal, India.
-I am a student, a coder, a meme-maker, a physics and maths enthusiast and a Cosmos Lover.
+A 2<sup>nd</sup> year Computer Science Student at Manipal Institute of Technology, Manipal, India.
+A coder, a physics and maths enthusiast, a part time memer and a Cosmos Lover.
 
 ### More Information
-You can find more information about me through my GitHub Profile given below and my HackerRank profile - [https://www.hackerrank.com/spaceman_dev](HackerRank)
+You can find more information about me through my GitHub Profile given below and my HackerRank profile - [https://www.hackerrank.com/spaceman_dev](HackerRank)<link>
 
 ### Contact me
 
