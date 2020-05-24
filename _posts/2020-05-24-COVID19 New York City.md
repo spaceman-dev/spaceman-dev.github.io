@@ -1,4 +1,7 @@
-# Data Science analysis of Coronavirus cases in New York City Neighborhood
+---
+layout: Dhruv Bhat's Blog
+title: Data Science analysis of Coronavirus cases in New York City Neighborhood
+---
 
 1. Introduction 
 
